@@ -1,0 +1,6 @@
+生成秘钥：
+ssh-keygen -t rsa
+
+上传代码
+git remote add origin https://github.com/07zdw/myProject.git
+git push -u origin master
